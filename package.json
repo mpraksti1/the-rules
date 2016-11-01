@@ -1,0 +1,22 @@
+{
+  "name": "rules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpraksti1/the-rules.git"
+  },
+  "author": "mike praksti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpraksti1/the-rules/issues"
+  },
+  "homepage": "https://github.com/mpraksti1/the-rules#readme",
+  "dependencies": {
+    "alexa-app": "^2.3.4"
+  }
+}
